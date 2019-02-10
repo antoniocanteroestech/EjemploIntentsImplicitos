@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploIntentInplicito</string>
+    <string name="btn_web">Ir a Web</string>
+    <string name="btn_contacts">Ver Contactos</string>
+    <string name="btn_call">Llamar por teléfono</string>
+    <string name="btn_search">Buscar</string>
+    <string name="btn_voice">Comando de voz</string>
+</resources>
